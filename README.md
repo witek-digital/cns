@@ -37,7 +37,7 @@ Neste exemplo, o número CNM é gerado a partir do CNS "999999" e do número de 
 ## Dependências
 Certifique-se de ter a biblioteca `cdigit` instalada antes de utilizar esta função. Caso ainda não tenha instalado, você pode instalá-la utilizando o seguinte comando:
 
-`nom install`
+`npm install`
 
 
 ## Limitações
