@@ -17,7 +17,7 @@ A função retorna uma string contendo o número CNM formatado no seguinte padr�
 - `DIGIT` é o dígito verificador calculado pela função.
 
 ## Exemplo de Uso
-javascript
+```javascript
 import * as cdigit from "cdigit";
 
 const cns = "999999";
@@ -25,6 +25,7 @@ const number = "0000001";
 
 const result = cnmGenerator(cns, number);
 console.log(result);
+```
 
 
 Saída:
